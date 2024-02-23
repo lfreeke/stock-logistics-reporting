@@ -3,7 +3,7 @@
 {
     "name": "Inventory Turnover Report",
     "summary": "Analize inventory turnover in the last 6 and 12 months",
-    "version": "12.0.1.0.1",
+    "version": "16.0.0.0.0",
     "development_status": "Beta",
     "category": "Warehouse",
     "website": "https://github.com/OCA/stock-logistics-reporting",
@@ -15,6 +15,6 @@
         "stock",
     ],
     "data": [
-        'views/product_views.xml',
+        "views/product_views.xml",
     ],
 }
